@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+.btnBox{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    height:200px;
+    width:200px;
+    margin:2.5rem;
+    border:5px solid black;
+    border-radius: 20%;
+}
+.one{
+    background-color: red;
+}
+.two{
+    background-color: green;
+}
+.three{
+    background-color: rgb(36, 36, 184);
+}
+.four{
+    background-color: yellow;
+}
+.white{
+    background-color: white;
+}
