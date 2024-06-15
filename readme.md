@@ -1,0 +1,1 @@
+This is Simon says Game developed by me using simple HTML,CSS and Javascript.
